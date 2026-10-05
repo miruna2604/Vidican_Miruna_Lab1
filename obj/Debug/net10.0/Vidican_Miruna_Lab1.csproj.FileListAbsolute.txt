@@ -95,3 +95,4 @@
 /Users/mirunel/MediiProgramare/Vidican_Miruna_Lab1/obj/Debug/net10.0/Vidican_Miruna_Lab1.pdb
 /Users/mirunel/MediiProgramare/Vidican_Miruna_Lab1/obj/Debug/net10.0/Vidican_Miruna_Lab1.genruntimeconfig.cache
 /Users/mirunel/MediiProgramare/Vidican_Miruna_Lab1/obj/Debug/net10.0/ref/Vidican_Miruna_Lab1.dll
+/Users/mirunel/MediiProgramare/Vidican_Miruna_Lab1/obj/Debug/net10.0/Vidican_Miruna_Lab1.sourcelink.json
